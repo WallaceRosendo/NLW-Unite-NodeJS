@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Aplicação desenvolvida no NLW Unite da Rocketseat na trilha Java.
+Aplicação desenvolvida no NLW Unite da Rocketseat na trilha NodeJS.
 </p>
 <p align="center">
 Neste projeto foi desenvolvido a versão simplificada de um sistema de check-in para eventos presenciais.
